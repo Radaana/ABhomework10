@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="cart_item_style" format="reference"/>
+    <!-- Собственные атрибуты для компонента -->
+    <declare-styleable name="CartItem">
+        <attr name="item_title" format="string"/>
+        <attr name="item_category" format="string"/>
+        <attr name="item_desc" format="string"/>
+        <attr name="item_price" format="string"/>
+    </declare-styleable>
+</resources>

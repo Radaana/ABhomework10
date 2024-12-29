@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phone_select">
+        <item>Mobile</item>
+        <item>Home</item>
+    </string-array>
+</resources>
